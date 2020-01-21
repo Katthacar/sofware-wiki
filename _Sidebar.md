@@ -1,0 +1,36 @@
+### Estándares
+* [Git commits](https://github.com/doapps/software/wiki/Est%C3%A1ndar-para-realizar-commits)
+* [API Design Guidelines](https://github.com/doapps/software/wiki/API-Design-Guidelines)
+* [SQL Naming Convention](https://github.com/doapps/software/wiki/SQL-Naming-Convention)
+* [Repository Naming Convention](https://github.com/doapps/software/wiki/Repository-Naming-Convention)
+* [Boilerplates](https://github.com/doapps/software/wiki/Biolerplates)
+* [Credenciales Google](https://github.com/doapps/software/wiki/Credenciales-Google)
+
+### Capacitación
+* [Inicio](https://github.com/doapps/software/wiki/Capacitación-inicio)
+* [Git](https://github.com/doapps/software/wiki/Git-inicio)
+* [Conceptos básicos de un programador](https://github.com/doapps/software/wiki/Conceptos-básicos-de-un-programador-inicio
+)
+* [Estructura de datos](https://github.com/doapps/software/wiki/Estructura-de-datos-inicio)
+* [Algoritmos](https://github.com/doapps/software/wiki/Algoritmos-inicio)
+### Herramientas
+* [Inicio](https://github.com/doapps/software/wiki/Herramientas-inicio)
+* [Herramientas Android](https://github.com/doapps/software/wiki/Herramientas-Android-inicio)
+* [Herramientas iOS](https://github.com/doapps/software/wiki/Herramientas-iOS-inicio)
+* [Herramientas Backend](https://github.com/doapps/software/wiki/Herramientas-Backend-inicio)
+* [Herramientas Web](https://github.com/doapps/software/wiki/Herramientas-Web-inicio)
+### Manuales
+* [Inicio](https://github.com/doapps/software/wiki/Manuales-inicio)
+* [Crear un droplet en DigitalOcean](https://github.com/doapps/software/wiki/Crear-un-droplet-en-DigitalOcean)
+* [Configuración inicial de Ubuntu 18.04 x64](https://github.com/doapps/software/wiki/Configuración-inicial-de-Ubuntu-18.04-x64)
+* [Configuración de claves SSH en Ubuntu 18.04](https://github.com/doapps/software/wiki/Configurar-claves-SSH-en-Ubuntu-18.04)
+* [Cómo desplegar un sitio web estático en Heroku](https://github.com/doapps/software/wiki/Cómo-desplegar-un-sitio-web-estático-en-Heroku)
+* [Cómo crear un subdominio para NodeJS usando Apache2](https://github.com/doapps/software/wiki/Cómo-crear-un-subdominio-para-Node-JS-usando-Apache2)
+* [Como instalar Nginx en Ubuntu 18.04](https://github.com/doapps/software/wiki/Como-instalar-Nginx-en-Ubuntu-18.04)
+* [Como instalar wildfly jboss en Ubuntu 18.04](https://github.com/doapps/software/wiki/Como-instalar-wildfly-jboss-en-Ubuntu-18.04)
+* [Cómo implementar Koin en tu proyecto de Android X](https://github.com/doapps/software/wiki/C%C3%B3mo-implementar-Koin-en-tu-proyecto-de-Android-X)
+* [Hacer backup para Amazon S3](https://github.com/doapps/software/wiki/Hacer-backup-para-Amazon-S3)
+* [Desplegar un sitio web estático en AmazonS3](https://github.com/doapps/software/wiki/Desplegar-un-sitio-web-est%C3%A1tico-en-AmazonS3)
+* [Configurar SSL en nginx](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
+* [Digitalocean space - S3](https://www.digitalocean.com/community/tutorials/how-to-upload-a-file-to-object-storage-with-node-js)
+* [Actualizar python en Ubuntu](https://websiteforstudents.com/installing-the-latest-python-3-7-on-ubuntu-16-04-18-04/)

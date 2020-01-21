@@ -1,0 +1,10 @@
+### Manuales
+* [Guida sobre DigitalOcean](https://github.com/doapps/software/wiki/Guía-sobre-DigitalOcean-inicio)
+* [Cómo desplegar un sitio web estático en Heroku](https://github.com/doapps/software/wiki/Cómo-desplegar-un-sitio-web-estático-en-Heroku)
+* [Cómo crear un subdominio para NodeJS usando Apache2](https://github.com/doapps/software/wiki/Cómo-crear-un-subdominio-para-Node-JS-usando-Apache2)
+* [Cómo implementar Koin en tu proyecto de Android X](https://github.com/doapps/software/wiki/C%C3%B3mo-implementar-Koin-en-tu-proyecto-de-Android-X)
+* [Crear un droplet en DigitalOcean](https://github.com/doapps/software/wiki/Crear-un-droplet-en-DigitalOcean)
+* [Configuración inicial de Ubuntu 18.04 x64](https://github.com/doapps/software/wiki/Configuración-inicial-de-Ubuntu-18.04-x64)
+* [Configuración de claves SSH en Ubuntu 18.04](https://github.com/doapps/software/wiki/Configurar-claves-SSH-en-Ubuntu-18.04)
+* [Como instalar wildfly jboss en Ubuntu 18.04](https://github.com/doapps/software/wiki/Como-instalar-wildfly-jboss-en-Ubuntu-18.04)
+* [Hacer backup para Amazon S3](https://github.com/doapps/software/wiki/Hacer-backup-para-Amazon-S3)
